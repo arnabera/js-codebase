@@ -15,13 +15,14 @@ heros.unshift("ben10")
 // console.log(heros);
 
 
-console.log('A',myArray);
-console.log(myArray.slice(1,5))
-console.log('B',myArray);
-console.log(myArray.splice(1,5))
-console.log('C',myArray);
+// console.log('A',myArray);
+// console.log(myArray.slice(1,5))
+// console.log('B',myArray);
+// console.log(myArray.splice(1,5))
+// console.log('C',myArray);
 
 // slice function does not make any changes in the array but splice function changes the array
 
-
+myArray.join()
+console.log(typeof myArray.join());
 
